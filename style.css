@@ -176,6 +176,12 @@ nav.show ul.grid {
   gap: 4rem;
 }
 
+/* toggle menu*/
+nav .icon-close {
+  visibility: hidden;
+}
+
+
 /*=== HOME ===*/
 #home {
   overflow: hidden;
